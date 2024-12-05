@@ -65,4 +65,4 @@ src/
 
 ## Screenshot
 
-![Employee Manager Interface](/api/placeholder/800/400)
+![Employee Manager Interface](https://github.com/ahmadism47/Gestion-des-Employ-s/blob/main/Screenshot%202024-12-05%20at%2011.40.03%20AM.png)
